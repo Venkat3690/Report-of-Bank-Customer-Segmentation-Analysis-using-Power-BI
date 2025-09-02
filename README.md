@@ -7,7 +7,7 @@ This Power BI project focuses on customer segmentation and profitability analysi
 
 * __Customer Demographics:__ Analyze customer distribution by age, gender, and location.
 
-8 __Transaction Behavior:__ Explore transaction volume, average spending, and activity trends by date and time.
+* __Transaction Behavior:__ Explore transaction volume, average spending, and activity trends by date and time.
 
 * __RFM Segmentation:__ Classify customers into segments such as Champions, Loyal, At Risk, Lost, and New Customers based on their purchasing patterns.
 
